@@ -16,19 +16,20 @@ body {
     min-height: 100vh;    
 }
 
-// header {
-//     height: 100vh; /* 100% da altura do site 'view height'*/
-//     display: contents;
-//     // display: flex;
-//     // justify-content: center;
-//     // align-items: center;
-// }
-
+/* header {
+   height: 100vh; /*100% da altura do site 'view height'
+   display: contents;
+   // display: flex;
+   // justify-content: center;
+   // align-items: center;
+ } 
+*/
 
 .navbar {
-    position: fixed;
+    /* position: fixed; */
     top: 0;
     width: 100vw;
+    background-color: darkseagreen;
 }
 
 .titulo {
