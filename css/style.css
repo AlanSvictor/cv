@@ -7,8 +7,9 @@
 
 body {
     color: #545E6C;
-    // background: #fff;
+    /* background: #fff; */
     background: whitesmoke;
+    background-size: auto 100vh;
 }
 
 .home,
@@ -28,14 +29,13 @@ body {
 .navbar {
     /* position: fixed; */
     top: 0;
-    width: 100vw;
     background-color: darkseagreen;
 }
 
 .titulo {
     margin-top: 7em;
     margin-bottom: 3em;
-
+    /* font-family: 'Dancing Script', cursive; */
 }
 
 .about .avatar {
